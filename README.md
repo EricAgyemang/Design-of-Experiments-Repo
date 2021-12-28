@@ -23,7 +23,7 @@ The Basic Principles of Design of Experiments are randomization, replication and
 Treatments are the different procedures we want to compare. These could be different kinds or amounts of fertilizer in agronomy, different long rate 
 structures in marketing, or different temperatures in a reactor vessel in chemical engineering.
 
-# Experimental units
+# Experimental Units
 Experimental units are the things to which we apply the treatments. These could be plots of land receiving fertilizer, groups of customers
 receiving different rate structures, or batches of feedstock processing at different temperatures.
 
@@ -40,7 +40,7 @@ Experimental Error is the random variation present in all experimental results. 
 to the same treatment, and it is often true that applying the same treatment over and over again to the same unit will result in different responses 
 in different trials. Experimental error does not refer to conducting the wrong experiment or dropping test tubes.
 
-# Measurement units
+# Measurement Units
 Measurement units (or response units) are the actual objects on which the response is measured. These may differ from the experimental units. 
 
 # Control
